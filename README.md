@@ -1,1 +1,1 @@
-# density_softmax_demo
+# density_softmax
